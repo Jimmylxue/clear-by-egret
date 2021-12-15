@@ -1,0 +1,330 @@
+{
+	"groups": [
+		{
+			"keys": "scoreBack,back_bottom,bg_face_jpg,share,masks,back_top,description_json,space,button,qq,dialog,entance,clean,clone,fxcolor0_0,fxcolor0_1,fxcolor0_2,fxcolor0_3,fxcolor0_4,fxcolor0_5,fxcolor1_0,fxcolor1_1,fxcolor1_2,fxcolor1_3,fxcolor1_4,fxcolor1_5,fxcolor2_0,fxcolor2_1,fxcolor2_2,fxcolor2_3,fxcolor2_4,fxcolor2_5,fxcolor3_0,fxcolor3_1,fxcolor3_2,fxcolor3_3,fxcolor3_4,fxcolor3_5,fxcolor4_0,fxcolor4_1,fxcolor4_2,fxcolor4_3,fxcolor4_4,fxcolor4_5,fxcolor5_0,fxcolor5_1,fxcolor5_2,fxcolor5_3,fxcolor5_4,fxcolor5_5,fxcolor6_0,fxcolor6_1,fxcolor6_2,fxcolor6_3,fxcolor6_4,fxcolor6_5,00_png,11_png,22_png,33_png,44_png,55_png,66_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/ui/scoreBack.png",
+			"type": "image",
+			"name": "scoreBack"
+		},
+		{
+			"url": "assets/music/01.mp3",
+			"type": "sound",
+			"name": "entance"
+		},
+		{
+			"url": "assets/music/03.mp3",
+			"type": "sound",
+			"name": "clean"
+		},
+		{
+			"url": "assets/music/02.mp3",
+			"type": "sound",
+			"name": "clone"
+		},
+		{
+			"url": "assets/ui/back_top.jpg",
+			"type": "image",
+			"name": "back_top"
+		},
+		{
+			"url": "assets/ui/back_bottom.jpg",
+			"type": "image",
+			"name": "back_bottom"
+		},
+		{
+			"url": "assets/ui/back_face.png",
+			"type": "image",
+			"name": "bg_face_jpg"
+		},
+		{
+			"url": "assets/ui/dialog.png",
+			"type": "image",
+			"name": "dialog"
+		},
+		{
+			"url": "assets/ui/space.png",
+			"type": "image",
+			"name": "space"
+		},
+		{
+			"url": "assets/ui/button.png",
+			"type": "image",
+			"name": "button"
+		},
+		{
+			"url": "assets/ui/qq.png",
+			"type": "image",
+			"name": "qq"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/faces/0fx/1.png",
+			"type": "image",
+			"name": "fxcolor0_0"
+		},
+		{
+			"url": "assets/faces/0fx/2.png",
+			"type": "image",
+			"name": "fxcolor0_1"
+		},
+		{
+			"url": "assets/faces/0fx/3.png",
+			"type": "image",
+			"name": "fxcolor0_2"
+		},
+		{
+			"url": "assets/faces/0fx/4.png",
+			"type": "image",
+			"name": "fxcolor0_3"
+		},
+		{
+			"url": "assets/faces/0fx/5.png",
+			"type": "image",
+			"name": "fxcolor0_4"
+		},
+		{
+			"url": "assets/faces/0fx/6.png",
+			"type": "image",
+			"name": "fxcolor0_5"
+		},
+		{
+			"url": "assets/faces/1fx/1.png",
+			"type": "image",
+			"name": "fxcolor1_0"
+		},
+		{
+			"url": "assets/faces/1fx/2.png",
+			"type": "image",
+			"name": "fxcolor1_1"
+		},
+		{
+			"url": "assets/faces/1fx/3.png",
+			"type": "image",
+			"name": "fxcolor1_2"
+		},
+		{
+			"url": "assets/faces/1fx/4.png",
+			"type": "image",
+			"name": "fxcolor1_3"
+		},
+		{
+			"url": "assets/faces/1fx/5.png",
+			"type": "image",
+			"name": "fxcolor1_4"
+		},
+		{
+			"url": "assets/faces/1fx/6.png",
+			"type": "image",
+			"name": "fxcolor1_5"
+		},
+		{
+			"url": "assets/faces/2fx/1.png",
+			"type": "image",
+			"name": "fxcolor2_0"
+		},
+		{
+			"url": "assets/faces/2fx/2.png",
+			"type": "image",
+			"name": "fxcolor2_1"
+		},
+		{
+			"url": "assets/faces/2fx/3.png",
+			"type": "image",
+			"name": "fxcolor2_2"
+		},
+		{
+			"url": "assets/faces/2fx/4.png",
+			"type": "image",
+			"name": "fxcolor2_3"
+		},
+		{
+			"url": "assets/faces/2fx/5.png",
+			"type": "image",
+			"name": "fxcolor2_4"
+		},
+		{
+			"url": "assets/faces/2fx/6.png",
+			"type": "image",
+			"name": "fxcolor2_5"
+		},
+		{
+			"url": "assets/faces/3fx/1.png",
+			"type": "image",
+			"name": "fxcolor3_0"
+		},
+		{
+			"url": "assets/faces/3fx/2.png",
+			"type": "image",
+			"name": "fxcolor3_1"
+		},
+		{
+			"url": "assets/faces/3fx/3.png",
+			"type": "image",
+			"name": "fxcolor3_2"
+		},
+		{
+			"url": "assets/faces/3fx/4.png",
+			"type": "image",
+			"name": "fxcolor3_3"
+		},
+		{
+			"url": "assets/faces/3fx/5.png",
+			"type": "image",
+			"name": "fxcolor3_4"
+		},
+		{
+			"url": "assets/faces/3fx/6.png",
+			"type": "image",
+			"name": "fxcolor3_5"
+		},
+		{
+			"url": "assets/faces/4fx/1.png",
+			"type": "image",
+			"name": "fxcolor4_0"
+		},
+		{
+			"url": "assets/faces/4fx/2.png",
+			"type": "image",
+			"name": "fxcolor4_1"
+		},
+		{
+			"url": "assets/faces/4fx/3.png",
+			"type": "image",
+			"name": "fxcolor4_2"
+		},
+		{
+			"url": "assets/faces/4fx/4.png",
+			"type": "image",
+			"name": "fxcolor4_3"
+		},
+		{
+			"url": "assets/faces/4fx/5.png",
+			"type": "image",
+			"name": "fxcolor4_4"
+		},
+		{
+			"url": "assets/faces/4fx/6.png",
+			"type": "image",
+			"name": "fxcolor4_5"
+		},
+		{
+			"url": "assets/faces/5fx/1.png",
+			"type": "image",
+			"name": "fxcolor5_0"
+		},
+		{
+			"url": "assets/faces/5fx/2.png",
+			"type": "image",
+			"name": "fxcolor5_1"
+		},
+		{
+			"url": "assets/faces/5fx/3.png",
+			"type": "image",
+			"name": "fxcolor5_2"
+		},
+		{
+			"url": "assets/faces/5fx/4.png",
+			"type": "image",
+			"name": "fxcolor5_3"
+		},
+		{
+			"url": "assets/faces/5fx/5.png",
+			"type": "image",
+			"name": "fxcolor5_4"
+		},
+		{
+			"url": "assets/faces/5fx/6.png",
+			"type": "image",
+			"name": "fxcolor5_5"
+		},
+		{
+			"url": "assets/faces/6fx/1.png",
+			"type": "image",
+			"name": "fxcolor6_0"
+		},
+		{
+			"url": "assets/faces/6fx/2.png",
+			"type": "image",
+			"name": "fxcolor6_1"
+		},
+		{
+			"url": "assets/faces/6fx/3.png",
+			"type": "image",
+			"name": "fxcolor6_2"
+		},
+		{
+			"url": "assets/faces/6fx/4.png",
+			"type": "image",
+			"name": "fxcolor6_3"
+		},
+		{
+			"url": "assets/faces/6fx/5.png",
+			"type": "image",
+			"name": "fxcolor6_4"
+		},
+		{
+			"url": "assets/faces/6fx/6.png",
+			"type": "image",
+			"name": "fxcolor6_5"
+		},
+		{
+			"url": "assets/ui/share.png",
+			"type": "image",
+			"name": "share"
+		},
+		{
+			"url": "assets/ui/masks.png",
+			"type": "image",
+			"name": "masks"
+		},
+		{
+			"url": "assets/faces/00clone/1.png",
+			"type": "image",
+			"name": "00_png"
+		},
+		{
+			"url": "assets/faces/01clone/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "assets/faces/11clone/1.png",
+			"type": "image",
+			"name": "11_png"
+		},
+		{
+			"url": "assets/faces/22clone/1.png",
+			"type": "image",
+			"name": "22_png"
+		},
+		{
+			"url": "assets/faces/33clone/1.png",
+			"type": "image",
+			"name": "33_png"
+		},
+		{
+			"url": "assets/faces/44clone/1.png",
+			"type": "image",
+			"name": "44_png"
+		},
+		{
+			"url": "assets/faces/55clone/1.png",
+			"type": "image",
+			"name": "55_png"
+		},
+		{
+			"url": "assets/faces/66clone/1.png",
+			"type": "image",
+			"name": "66_png"
+		}
+	]
+}
