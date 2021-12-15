@@ -1,13 +1,5 @@
 此工程是egret的小游戏脚手架～
 
-# 如何安装
-
-##通过git
-
-```
-git clone https://git.woa.com/minGame/egret-base.git
-```
-
 
 
 # 项目目录结构
